@@ -1,0 +1,26 @@
+{
+  "name": "0_repaso",
+  "version": "1.0.0",
+  "description": "Prueba en clase",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriufit/web_as_clase_daw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriufit/web_as_clase_daw/issues"
+  },
+  "homepage": "https://github.com/andriufit/web_as_clase_daw#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "vite": "^7.1.7"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.93.2"
+  }
+}
